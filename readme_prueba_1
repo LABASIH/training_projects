@@ -1,0 +1,86 @@
+# How to use the program
+
+## Executate the file on any IDE that suports python as language
+
+You can just copy paste the content or code inside and run it. Or you can open it from the aplication itself
+
+## Run the program / Navigating through the menu
+
+By simply clicking on the run button the menu will be displayed and so the options.
+You just need to enter the number of the option you want to executate (1 to 6)
+
+## 1. Adding products
+
+The program will ask you to enter the product that you want to add. 
+If it is alraeady on the inventory it will diplay a message that says 'The product is already in the list'
+Then it will ask you two more values the price and the quantity (Make sure these values are positive numbers).
+When you added this two values it will returns you to the main menu and will ask you to choose another option.
+
+Example.
+
+1. Enter the option '1. Add products' = 1
+2. Enter the name of the product: Cabagge
+3. Enter a price for the product: 4500
+4. Enter a quantity for the product: 45
+
+Then it will display a message that it will tell you that the product was added succesfully and wich one was.
+
+## 2. Finding products
+
+To find any product you just need to select the second option of the menu and type the product you want to find.
+Make sure the product you are looking for in the inventory was already entered.
+
+Example.
+
+1. Enter the option '2. Look for products' = 2
+2. Enter the product you are looking for: Cabagge
+
+It will display the full desciption of the product if it is in the inventory.
+
+## 3. Reflexión Personal
+
+To change the price of a product you need to select the third option of the menu.
+Then, enter the product you want to cahnge the price and it will ask you for a new one.
+Make sure the price is a positive value.
+
+Example.
+
+1. Enter the option '3. Change price of a product' = 3
+2. Enter the product you want to change the price: Cabagge
+3. Enter the new price: 5000
+
+It will display a confirmation.
+
+## 4. Delete a product
+
+To delete a product you need to select a fourth option in the main menu.
+Make sure the product you want to delete is already in the inventory.
+
+Example.
+
+1. Enter the option '4. Delete product' = 4
+2. Enter the product you want to delete: Cabagge
+
+It will display a confirmation.
+
+## 5. Calculate the total.
+
+Calculates the total of the items that the inventory has
+
+Example.
+
+1. Enter the option '5. total' = 5
+
+It displays the total of the inventory
+
+## 6. Exit the program
+
+1. Enter the option '6. exit' = 6
+
+Displays a confirmation that confirms the termination of the program
+
+
+
+
+
+
