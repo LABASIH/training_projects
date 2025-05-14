@@ -95,10 +95,8 @@ def delete_product():
             del inventory[i]
             print(f'The product {product} was deleted succesfully')
             return
-        
-        else:
-         print('\nThe product was not found')
-         break
+          
+    print('\nThe product was not found')
 
 def total():
 
